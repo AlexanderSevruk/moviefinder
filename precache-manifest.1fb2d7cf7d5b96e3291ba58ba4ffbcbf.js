@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16ee1b96a3952d8a08411b82fbd1a9bc",
+    "revision": "0f4cf62219a3ab9af9b81deb9379967f",
     "url": "/moviefinder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviefinder/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6b3207653b827098e219",
+    "revision": "53f1d74334d5dd99594b",
     "url": "/moviefinder/static/css/main.774be72c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviefinder/static/js/2.06feed0d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b3207653b827098e219",
-    "url": "/moviefinder/static/js/main.d7f95dbe.chunk.js"
+    "revision": "53f1d74334d5dd99594b",
+    "url": "/moviefinder/static/js/main.98aed7d1.chunk.js"
   },
   {
     "revision": "ba19f92a5ea0ef49cc74",
