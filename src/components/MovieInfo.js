@@ -26,8 +26,8 @@ const MovieInfo = props => {
               />
             ) : (
               <img
-                style={{ borderRadius: "2px" }}
-                src={`https://image.tmdb.org/t/p/w300${props.currentMovie.poster_path}`}
+                style={{ width: "300px", borderRadius: "2px" }}
+                src={`https://image.tmdb.org/t/p/w500${props.currentMovie.poster_path}`}
                 alt="Poster"
               />
             )}
